@@ -1,2 +1,2 @@
-# python_study
+# Python study at 2020
  
